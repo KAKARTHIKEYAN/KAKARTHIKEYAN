@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=KAKARTHIKEYAN&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKARTHIKEYAN&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAKARTHIKEYAN)](https://github.com/KAKARTHIKEYAN/github-readme-stats)
